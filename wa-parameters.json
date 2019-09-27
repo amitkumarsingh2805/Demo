@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": "RANDOM-WEBSITE2"
+      "value": "$env"
     },
     "hostingPlanName": {
-      "value": "RANDOM-WEBSITE-HOSTING2"
+      "value": "$env-hosting"
     },
 	"sku": {
 	"allowedValues": [
