@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": "env"
+      "value": "env-testing-123"
     },
     "hostingPlanName": {
-      "value": "env-hosting"
+      "value": "env-hosting-hostingplan"
     },
 	"sku": {
 	"allowedValues": [
