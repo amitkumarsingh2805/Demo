@@ -1,8 +1,8 @@
 #Declare the variables with the values for the different parameters to be passed. Only the values here needs to be changed.
 #######################
 
-$templatefile= 'wa-template.json'    	    #path to template file
-$parameterfile= 'wa-parameters.json' 	    #path to parameter file
+$templatefile= './wa-template.json'    	    #path to template file
+$parameterfile= './wa-parameters.json' 	    #path to parameter file
 $rg= 'test'                                                                  #resource group name
 $loc= 'West Europe'                                                        #location
 $name= 'app001'                                                            #name of notification namespaceName
