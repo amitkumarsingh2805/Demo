@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": "env-testing-dev"
+      "value": "$(app)"
     },
     "hostingPlanName": {
-      "value": "env-hosting-hostingplan-prd"
+      "value": "$(asp)"
     },
 	"sku": {
 	"allowedValues": [
