@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": $(app)
+      "value": "random-site12"
     },
     "hostingPlanName": {
-      "value": $(asp)
+      "value": "random-site-asp12"
     },
 	"sku": {
 	"allowedValues": [
